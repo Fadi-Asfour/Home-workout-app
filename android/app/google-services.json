@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107435010609",
+    "project_id": "vigor-8b0ed",
+    "storage_bucket": "vigor-8b0ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107435010609:android:6ee44b615b583d6629c310",
+        "android_client_info": {
+          "package_name": "com.example.home_workout_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107435010609-6sa4u9u8jpms899pqepufvu4e5733ca5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home_workout_app",
+            "certificate_hash": "91cca3b067a36fb92028baa8d57e2ac5d42cb03b"
+          }
+        },
+        {
+          "client_id": "107435010609-3mqlla7g7batusfdhogbf0f85flkec7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6ITp-cA-6rprzTVeLWWXTCY1-4Y8C7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107435010609-3mqlla7g7batusfdhogbf0f85flkec7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
